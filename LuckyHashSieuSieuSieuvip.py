@@ -29,5 +29,5 @@ def get_vip_garden_gradient(text):
         result += vip_colors[color_idx % num_colors] + char
     return result + '\033[0m'
 
-# --- DÒNG PRINT YÊU CẦU ---
+# --- Lucky Hash --- màu free
 print(f"{get_vip_garden_gradient('xin phép delay:)))').center(80)}")
