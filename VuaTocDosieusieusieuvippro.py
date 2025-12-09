@@ -1,6 +1,6 @@
 class Colors:
     RESET = '\033[0m'
-    CASTORICE_PRIMARY = '\033[38;5;141m' # Chỉ cần để tránh lỗi nếu hàm gradient có gọi màu khác
+    CASTORICE_PRIMARY = '\033[38;5;141m' # Chỉ để tránh lỗi nếu hàm gradient có gọi màu khác
 
 C = Colors()
 
