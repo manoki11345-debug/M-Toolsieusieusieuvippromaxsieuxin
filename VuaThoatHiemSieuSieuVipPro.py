@@ -20,4 +20,4 @@ def custom_gradient(text, colors):
     return result + C.RESET
 
 # --- Vua Thoát Hiểm --- Màu free cho ae luôn nha
-print(f"{custom_gradient('20h30 hôm nay up tool, tin chuẩn nha', GREEN_GARDEN).center(80)}")
+print(f"{custom_gradient('xl vì bất tiện, hẹn ae ngày mai. Ae tạm dạt qua Tn Tool ha, tí bù cho key don 1 day', GREEN_GARDEN).center(80)}")
