@@ -21,6 +21,6 @@ def custom_gradient(text, colors):
         result += colors[color_idx] + char
     return result + C.RESET
 
-print(f"{custom_gradient('Admin xin phép tạm dừng để sửa lỗi', YELLOW_GARDEN).center(80)}")
+print(f"{custom_gradient('Bên Trịnh Đang Lỗi Obfuscate ae qua TnTool nha', YELLOW_GARDEN).center(80)}")
 
 sys.exit(0)
